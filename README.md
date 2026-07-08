@@ -1,8 +1,8 @@
 # Hola, soy Anthony Daniel Ortega Maldonado
 
-**Backend & Full Stack Developer | Java | Spring Boot | Quarkus | Angular | Microservices**
+**Backend & Full Stack Developer | Java | Spring Boot | Quarkus | Angular | React | Microservices**
 
-Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 4 anios de experiencia
+Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 5 años de experiencia
 desarrollando soluciones empresariales, APIs, integraciones y aplicaciones web.
 Mi foco actual esta en Java, Spring Boot, Quarkus, microservicios, APIs
 REST/gRPC, Angular, TypeScript, SQL y Docker.
