@@ -1,8 +1,8 @@
 # Hola, soy Anthony Daniel Ortega Maldonado
 
-**Desarrollador Full Stack | Java | SAP Commerce | Spring | Quarkus | Angular**
+**Desarrollador Full Stack | Java | Spring | Quarkus | Angular | React | SAP Commerce**
 
-Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 4 años de experiencia
+Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 5 años de experiencia
 desarrollando soluciones empresariales, e-commerce y microservicios. Mi trabajo
 se ha enfocado principalmente en Java, Spring Framework, SAP Commerce Cloud,
 integraciones con terceros, Angular y despliegues para clientes de escala
