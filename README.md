@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack | Java | SAP Commerce | Spring | Quarkus | Angular**
 
-Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 4 anios de experiencia
+Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 4 años de experiencia
 desarrollando soluciones empresariales, e-commerce y microservicios. Mi trabajo
 se ha enfocado principalmente en Java, Spring Framework, SAP Commerce Cloud,
 integraciones con terceros, Angular y despliegues para clientes de escala
