@@ -5,7 +5,7 @@
 Soy Ingeniero en Sistemas de Loja, Ecuador, con mas de 5 años de experiencia
 desarrollando soluciones empresariales, APIs, integraciones y aplicaciones web.
 Mi foco actual esta en Java, Spring Boot, Quarkus, microservicios, APIs
-REST/gRPC, Angular, TypeScript, SQL y Docker.
+REST/gRPC, Angular, React, TypeScript, SQL y Docker.
 
 Tambien cuento con experiencia en SAP Commerce Cloud / Hybris, integraciones de
 pagos, procesos logisticos, seguridad y rollouts regionales. Uso este perfil
@@ -16,7 +16,7 @@ servicios, frontend Angular, documentacion tecnica y despliegues reproducibles.
 
 - Desarrollo backend con Java, Spring Boot, Quarkus, REST, SOAP y gRPC.
 - Diseno de APIs, microservicios, integraciones y contratos entre sistemas.
-- Desarrollo frontend con Angular, TypeScript, JavaScript y React.
+- Desarrollo frontend con Angular, React, TypeScript y JavaScript.
 - Persistencia con SQL, PostgreSQL, modelado de datos y migraciones.
 - Dockerizacion, documentacion tecnica y proyectos listos para revision.
 - Experiencia corporativa en SAP Commerce Cloud, pagos, logistica y seguridad.
@@ -27,6 +27,7 @@ servicios, frontend Angular, documentacion tecnica y despliegues reproducibles.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,7 +64,7 @@ servicios, frontend Angular, documentacion tecnica y despliegues reproducibles.
 
 - Backend Java moderno con Spring Boot, Quarkus y APIs bien documentadas.
 - Arquitectura de microservicios, integraciones REST/gRPC y mensajeria entre sistemas.
-- Frontend Angular con formularios, consumo de APIs y experiencias claras para usuarios.
+- Frontend Angular/React con formularios, consumo de APIs y experiencias claras para usuarios.
 - Portafolio publico con proyectos ejecutables, Docker, README completos y pruebas automatizadas.
 
 ## Contacto
